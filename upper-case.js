@@ -20,5 +20,3 @@ function upperCase(str) {
 console.log(
     upperCase('uhoo'),
 );
-
-// It should log ->
